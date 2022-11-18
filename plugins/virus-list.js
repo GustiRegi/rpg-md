@@ -49,7 +49,7 @@ const sections = [
         }, {
     title: `༶ ⊰⊷BUY PREMIUM⊶⊱ ༶`,
 	rows: [
-	    {title: "༆Up To Premium࿐", rowId: '.sewa', description: 'Unclock Semua Fitur Premium' },
+	    {title: "༆Up To Premium࿐", rowId: '.sewa', description: 'Unlock Semua Fitur Premium' },
 	    ]
         },
 ]
