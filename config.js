@@ -32,11 +32,16 @@ global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/SaipulAnuar'
 global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
 global.swa = 'wa.me/62882009645268'
+global.sig = 'https://instagram.com/'
+global.syt = 'https://youtu.be/'
+global.sgh = 'https://github.com/'
+global.sgc = 'https://chat.whatsapp.com/'
+global.swa = 'wa.me/'
 global.swb = 'https://'
-global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
+global.snh = 'https://' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '0882009645268'
+global.pdana = '-'
 global.povo = '-'
 global.pgopay = '-'
 global.ppulsa = '-'
@@ -44,15 +49,15 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '16396383514'
-global.nomorown = '62882009645268'
-global.namebot = 'Yuki Adistyラ'
-global.nameown = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nomorbot = '62859106577991'
+global.nomorown = '62859106965986'
+global.namebot = 'Cumsocks'
+global.nameown = 'Regi'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62882009645268', 'ᴹᴿ᭄ King Of Bear ×፝֟͜×', 'true']
+  ['62859106965986', 'Regi', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
